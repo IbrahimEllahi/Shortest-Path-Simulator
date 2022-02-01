@@ -287,7 +287,7 @@ while (run := True):
           
           node.rect.x, node.rect.y = [graph.move_to_tile(xy) for xy in node.rect.center]
 
-      if event.key == pg.K_c and not graph.selected_nodes:
+      if event.key == pg.K_c:
 
         tiled_pos = [graph.move_to_tile(xy) for xy in pos]
 
