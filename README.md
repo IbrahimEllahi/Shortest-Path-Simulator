@@ -20,6 +20,9 @@ This program allows users to create their own node maps! Using these node maps y
 
 
 ## Controls
+
+<br>
+
 `C` - Create a centered node at mouse cursor position
 
 `F` - Create/delete a line between 2 selected nodes
@@ -35,3 +38,9 @@ This program allows users to create their own node maps! Using these node maps y
 `S` - Save File
 
 `L` - Load saved graph data
+
+<br>
+
+## Setup
+
+Use `pip install pygame` to install all the necessary packages
