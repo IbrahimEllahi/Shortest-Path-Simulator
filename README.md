@@ -9,6 +9,7 @@ This program allows users to create their own node maps! Using these node maps y
 <br>
 
 ![shortest](https://user-images.githubusercontent.com/85767913/152070886-4de6c79f-4b13-4bcb-9619-bc592002fb0e.gif)
+### Note: `The keys of the dictionary are in order of the path, for eg: {1:None, 2:None, 3:None} this means that our path starts at 1, then visits 2 and ends at 3`
 
 <br>
 
