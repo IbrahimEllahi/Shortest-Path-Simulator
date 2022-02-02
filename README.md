@@ -44,3 +44,7 @@ This program allows users to create their own node maps! Using these node maps y
 ## Setup
 
 Use `pip install pygame` to install all the necessary packages
+
+<br>
+
+## Functionality
