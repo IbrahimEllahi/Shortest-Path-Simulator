@@ -4,7 +4,7 @@ This program allows users to create their own node maps! Using these node maps y
 
 <br>
 
-_### Find the Shortest Paths_
+### Find The Shortest Paths
 
 <br>
 
@@ -12,7 +12,7 @@ _### Find the Shortest Paths_
 
 <br>
 
-_### Create your own node maps_
+### Create Your Own Node Maps
 
 <br>
 
