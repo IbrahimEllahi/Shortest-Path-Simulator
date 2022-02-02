@@ -48,3 +48,5 @@ Use `pip install pygame` to install all the necessary packages
 <br>
 
 ## Functionality
+
+ This path simulator takes advantage of pygame's visuals to produce custom node maps in which the map data can be saved and passed onto a path finding algorithm, allowing users to map out real locations and create a small GPS where they can take 2 places and map out the quickest route. Me and my programming team used this software to create a custom map of our school (after we received the original map, we were able to make a node version of it), the rooms and hallways were replaced with nodes all linked to one another. After retrieving this data we were able to input our current location and the go to location into the software, resulting in it returning the fastest route to a specific room. 
