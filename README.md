@@ -17,3 +17,21 @@ This program allows users to create their own node maps! Using these node maps y
 <br>
 
 ![create](https://user-images.githubusercontent.com/85767913/152071351-b840e917-9e77-4e17-abb3-ba852505f8e3.gif)
+
+
+## Controls
+`C - Create a centered node at mouse cursor position
+
+F - Create/delete a line between 2 selected nodes
+
+R - Turn Graph Mode on/off
+
+Q - Find shortest path between two nodes
+
+Left Ctrl - Delete selected node
+
+Space - Center all nodes on screen
+
+S - Save File
+
+L - Load saved graph data`
